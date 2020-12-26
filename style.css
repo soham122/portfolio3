@@ -1,0 +1,23 @@
+h1{
+    color : #6d8b7b80
+}
+h2{
+    color: #387973
+}
+.header{
+    background-color: #0000FF
+    display: flex;
+    justify-content: space-between;
+}
+.grid{
+    background-color: #00FFFF
+    display: flex;
+    justify-content: space-between;
+}
+.footer{
+    background-color:#FFFF00;
+    display: flex;
+    justify-content: space-between;
+}
+body{
+    background-color:#80808080
